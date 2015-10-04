@@ -1,7 +1,0 @@
-#EXTM3U NETTVPLUS.by.Bic@&Siki&Mamba
-
-
-#EXTINF:-1,NetTV Plus Info Kanal
-http://185.20.36.203:8080/stream/?channel=nettvinfo&stream=1mb&sp=nettvplus&b=3&u=
-#EXTINF:-1,RTS 1
-http://185.20.36.231:38080/stream/?channel=rts1&stream=1mb&sp=nettvplus&b=3&u=
